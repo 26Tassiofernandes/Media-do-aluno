@@ -1,4 +1,4 @@
-### 📃 Média do aluno
+### 👨‍🎓 Média do aluno
 
 <div style="display: inline_block">
 
