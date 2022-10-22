@@ -13,7 +13,7 @@
 ##
 
 ### 📜 Descrição 
-<p>Um programa que calcula a média escolar de aluno e outras informações, como a soma das notas, menor e maior nota tiradas pelo aluno, isso com base nas notas que o usuário escrever em cada campo.</p>
+<p>Um programa que calcula a média escolar de aluno e outras informações, como a soma das notas, menor e maior nota tiradas pelo aluno. O programa ainda irá dizer se o aluno está aprovado ou reprovado.</p>
 
 ##
 
