@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
 body {
 
-    background-color: rgb(0, 118, 187);
+    background-color: #1A1A2F;
 
 }
 
@@ -8,24 +10,21 @@ header {
 
     text-align: center;
     color: aliceblue;
-
-}
-
-* {
-
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'PT Sans Narrow';
 
 }
 
 section {
 
-    background-color: bisque;
+    background-color: #1D2F40;
     width: 300px;
     margin: auto;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 1px 2px 3px black;
     text-align: center;
+    color: white;
+    font-family: 'PT Sans Narrow';
 
 }
 
@@ -34,40 +33,48 @@ footer {
     margin-top: 20px;
     text-align: center;
     color: aliceblue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'PT Sans Narrow';
 
 }
 
 #nota1, #nota2, #nota3, #nota4 {
     width: 80px;
     border-radius: 10px;
-    border-color: aliceblue;
-    border-style: dashed;
+    border-style: hidden;
     background-color: aliceblue;
+    
+    
 
 }
 
 #res {
-    border-radius: 10px;
+    border-radius: 12px;
     border-color: rgb(255, 255, 255);
-    border-style: dashed;
+    border-style: hidden;
     margin-top: 10px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: aliceblue
+    font-family: 'PT Sans Narrow';
+    background-color: #6541F5;
+    color: white;
+    width: 65px;
+    height: 25px;
+    font-size: 14px;
 }
 
 #clean {
     
-    border-radius: 10px;
-    border-color: aliceblue;
-    border-style: dashed;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: aliceblue;
+    border-radius: 12px;
+    width: 60px;
+    height: 25px;
+    border-style: hidden;
+    font-family: 'PT Sans Narrow';
+    background-color: #D9553D;
+    font-size: 14px;
+    color: white;
 
 }
 
 #notas {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'PT Sans Narrow';
 }
 
 #msg {
