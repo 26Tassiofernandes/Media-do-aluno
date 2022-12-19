@@ -4,10 +4,8 @@ var n3 = document.getElementById('nota3')
 var n4 = document.getElementById('nota4')
 var m = document.getElementById('msg')
 
-
 function resul() {
     
-
     if (n1.value.length == 0 || n2.value.length == 0 || n3.value.length == 0 || n4.value.length == 0) { // Campos vazios
         window.alert('Campo(s) vazio(s)! Tente novamente...')
 
@@ -18,10 +16,12 @@ function resul() {
 
         let numeros = []
         soma = 0
-        numeros.push(Number(n1.value))
-        numeros.push(Number(n2.value))
-        numeros.push(Number(n3.value))
-        numeros.push(Number(n4.value))
+        notas = [n1, n2, n3, n4]
+
+        for (n in notas) {
+            numeros.push(Number(notas[n].value)) // Para adicionar cada número digitado na lista...
+
+        }
         
         for (valor in numeros) {
             soma += numeros[valor]
@@ -50,10 +50,11 @@ function resul() {
 
 function limpa() {
 
-    document.getElementById('nota1').value=''
-    document.getElementById('nota2').value=''
-    document.getElementById('nota3').value=''
-    document.getElementById('nota4').value=''
+    campos = ['nota1', 'nota2', 'nota3', 'nota4']
+    for (i in campos) {
+        document.getElementById(campos[i]).value=''
+    }
+
     m.innerHTML = '' // Limpa as minhas mensagens...
 
 }
