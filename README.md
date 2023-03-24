@@ -8,6 +8,8 @@
   
 </div>
 
+<a href="https://26tassiofernandes.github.io/Media-do-aluno/aluno.html">Média do Aluno</a>
+
 <img src="https://user-images.githubusercontent.com/86972667/208528875-255d94f7-3bec-4cbf-a89d-987f5ae23eed.png" alt="imagem">
 
 ##
