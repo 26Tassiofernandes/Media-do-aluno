@@ -8,7 +8,7 @@
   
 </div>
 
-### Link do Projeto
+### Link do Projeto 🔗
 
 <a href="https://26tassiofernandes.github.io/Media-do-aluno/aluno.html">Média do Aluno</a>
 
