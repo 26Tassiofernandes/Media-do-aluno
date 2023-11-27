@@ -17,9 +17,33 @@
 ##
 
 ### 📜 Descrição 
-<p>Um programa que calcula a média escolar de aluno e outras informações, como a soma das notas, menor e maior nota tiradas pelo aluno. O programa ainda irá dizer se o aluno está aprovado ou reprovado, para ser aprovado a média deve ser maior que 5.</p>
+
+Um programa que calcula a média escolar de aluno e outras informações, como a soma das notas, menor e maior nota tiradas pelo aluno. O programa ainda irá dizer se o aluno está aprovado ou reprovado, para ser aprovado a média deve ser maior que 5.
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### 📚 Tecnologias tratadas nesse projeto
+
+- HTML
+- CSS
+- JavaScript
+
+##
+
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
+
+##
